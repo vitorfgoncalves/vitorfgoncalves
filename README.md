@@ -3,7 +3,7 @@
 # Vitor Gonçalves
 
 ## Hello World! 👋
-    I'm Front-End developer focusing on my studies :hourglass:
+   I'm Front-End developer focusing on my studies. :dart:
 
 
  <br/> :green_book: &nbsp;  &nbsp;Studying software analysis and development at Unisinos
