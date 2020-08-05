@@ -3,9 +3,10 @@
 # Vitor Gonçalves
 
 ## Hello World! 👋
+    I'm Front-End developer focusing on my studies :hourglass:
 
-I am currently focused on my studies :sparkles:
-    :green_book:Studying software analysis and development at Unisinos
+
+ <br/> :green_book: &nbsp;  &nbsp;Studying software analysis and development at Unisinos
  <br/> :rocket:  &nbsp; Studying with **Rocketseat** at NLW # 2
  <br/> :purple_heart: &nbsp; Seeking to learn more about Front-End development
  <br/> :computer: &nbsp; My main stack of studies is: ReactJS, Node.js & React Native
