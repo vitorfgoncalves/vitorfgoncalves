@@ -3,7 +3,7 @@
 # Vitor Gonçalves
 
 ## Hello World! 👋
-   I'm Front-End developer focusing on my studies. :dart:
+   I'm a Magic Software Developer
 
 
  <br/> :green_book: &nbsp;  &nbsp;Studying software analysis and development at Unisinos
