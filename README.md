@@ -2,7 +2,7 @@
 
 # Vitor Gonçalves
 
-## Hello World! 👋
+## Hello, World! 👋
 
 
  <br/> :green_book: &nbsp;  &nbsp;Studying Software Analysis and Development at Unisinos
